@@ -1,0 +1,23 @@
+Cloud Service Model Evaluation (SaaS, PaaS, IaaS)
+
+Cloud adoption requires selecting appropriate service models depending on workload needs.
+
+IaaS (Infrastructure as a Service)
+IaaS provides full control over compute, storage, and networking.
+- Suitable for hosting SAP application servers
+- Enables customization and scalability
+- Example: Amazon EC2, VPC
+
+PaaS (Platform as a Service)
+PaaS offers managed services that reduce administrative overhead.
+- Supports database modernization and automation
+- Improves deployment efficiency
+- Example: Amazon RDS, AWS Lambda
+
+SaaS (Software as a Service)
+SaaS delivers fully managed cloud services.
+- Useful for monitoring, backup, and enterprise tools
+- Minimizes infrastructure responsibility
+- Example: Amazon S3, CloudWatch
+
+This evaluation supports selecting an optimal hybrid deployment approach for SAP workloads.
